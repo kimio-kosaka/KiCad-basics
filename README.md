@@ -1,2 +1,2 @@
 # KiCad-basics
-CC-BY-NC-SA
+CC-BY-NC-SA 4.0
